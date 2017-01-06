@@ -4,6 +4,8 @@ import webbrowser
 class Movie():
     """
     This class represent Movie entity in the real world
+    To create object of this class you need to pass 4 basic details
+    about a movie.
     """
 
     def __init__(self, title, storyline, poster, trailer):
