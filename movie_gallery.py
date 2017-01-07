@@ -1,8 +1,8 @@
 import movie
 import fresh_tomatoes
 
-# I have collecte my favourite movie and its most important details together to
-# build an intresting webpage
+# I have collecte my favourite movie and its most important
+# details together to build an intresting webpage
 
 dangal = movie.Movie('Dangal',
                      'Story about first indian woman wrestler.',
@@ -26,7 +26,7 @@ rustom = movie.Movie('Rustom',
                      'The story dates back to the late 1950\'s and revolves'+
                      ' around an Indian Naval Officer Rustom Pavri (Akshay'+
                      ' Kumar), who is happily married to Cynthia Pavri ('+
-                     'Ileana D\'Cruz).",
+                     'Ileana D\'Cruz).',
                      'https://upload.wikimedia.org/wikipedia/en/9/96/Akshay'+
                      '_Kumar%27s-Rustom_poster.jpg',
                      'https://www.youtube.com/watch?v=L83qMnbJ198')
